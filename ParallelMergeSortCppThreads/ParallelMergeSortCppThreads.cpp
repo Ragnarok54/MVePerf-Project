@@ -6,7 +6,7 @@
 #include <list> 
 #include <thread> 
 
-int thread_count = 8;
+int thread_count = 4;
 
 using namespace std;
 using Iterator = vector<int>::iterator;
